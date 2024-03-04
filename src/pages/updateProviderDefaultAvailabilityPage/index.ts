@@ -1,0 +1,3 @@
+import UpdateProviderDefaultAvailabilityPage from './UpdateProviderDefaultAvailabilityPage';
+
+export default UpdateProviderDefaultAvailabilityPage;
